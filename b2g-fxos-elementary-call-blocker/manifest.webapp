@@ -1,0 +1,17 @@
+{
+  "name": "blckr",
+  "description": "blocks incomming calls instantly",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/icons/icon16.png",
+    "48": "/icons/icon48.png",
+    "64": "/icons/icon64.png",
+    "128": "/icons/icon128.png"
+  },
+  "type": "certified",
+  "permissions": {
+    "telephony": {
+      "description": "Required to control telephony functions"
+    }
+  }
+}
