@@ -1,2 +1,2 @@
 # b2g-fxos-misc
-Collection of examples, stubs, oneliners ... most of them should work
+Collection of examples, stubs, oneliners ... most of this should work
